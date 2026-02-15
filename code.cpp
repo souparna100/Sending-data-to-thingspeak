@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // Wi-Fi credentials
-const char* ssid = "your_wifi_ssid";
-const char* password = "your_wifi_password";
+const char* ssid = "Oh yeah";
+const char* password = "i9849gjj";
 
 // ThingSpeak API configuration
 const char* server = "http://api.thingspeak.com/update";
